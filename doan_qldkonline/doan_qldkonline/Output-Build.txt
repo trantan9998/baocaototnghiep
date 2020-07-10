@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: doan_qldkonline, Configuration: Debug Any CPU ------
+1>  doan_qldkonline -> C:\Users\TRANTAN\source\repos\doan_qldkonline\doan_qldkonline\bin\doan_qldkonline.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

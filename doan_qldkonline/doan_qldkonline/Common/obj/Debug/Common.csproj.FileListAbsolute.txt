@@ -1,0 +1,6 @@
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\bin\Debug\Common.dll
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\bin\Debug\Common.pdb
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\obj\Debug\Common.dll
+C:\Users\TRANTAN\source\repos\doan_qldkonline\Common\obj\Debug\Common.pdb
